@@ -11,11 +11,11 @@
 
 🏗️ Also, have a Strong background in project management methodologies using Agile (Scrum and Kanban) and Waterfall.
 
-Beginning my career as a hardware embedded engineer, I quickly developed a passion for robotics creation and programming. My early journey in hardware included active participation in robot competitions, primarily utilizing C. Solving problems in this language was thoroughly enjoyable.
+🔧 Beginning my career as a hardware embedded engineer, I quickly developed a passion for robotics creation and programming. My early journey in hardware included active participation in robot competitions, primarily utilizing C. Solving problems in this language was thoroughly enjoyable.
 
-To broaden my skill set, I transitioned into web development, embracing Python for backend development, and later added TypeScript to my toolkit. This paved the way for my first role in backend development. As an avid learner, I discovered boot.dev and was drawn to their teaching methodology, which prompted me to tackle learning Go to keep pace with their courses.
+🌐 To broaden my skill set, I transitioned into web development, embracing Python for backend development, and later added TypeScript to my toolkit. This paved the way for my first role in backend development. As an avid learner, I discovered [Boot.dev](https://boot.dev) and was drawn to their teaching methodology, which prompted me to tackle learning Go to keep pace with their courses.
 
-Driven by a pursuit of excellence, I continuously seek roles in large-scale projects with significant impact. I am enthusiastic about pushing the boundaries of what I can achieve in the world of technology.
+🚀 Driven by a pursuit of excellence, I continuously seek roles in large-scale projects with significant impact. I am enthusiastic about pushing the boundaries of what I can achieve in the world of technology.
 
 ## 💻 Skills
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,5 +50,7 @@ Driven by a pursuit of excellence, I continuously seek roles in large-scale proj
 ## 📫 Contact Me
 If you'd like to get in touch, feel free to reach out to me at\
 📧 [abdulmonaim.ahmad@gmail.com](mailto:abdulmonaim.ahmad@gmail.com) | ☎️ [+201011083885](tel:+201011083885) | 📱 WhatsApp: +201553707492
+
+
 
 Thanks for stopping by! 😄
