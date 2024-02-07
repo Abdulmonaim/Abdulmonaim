@@ -38,11 +38,11 @@ I have passion to navigate the complexities of the development cycle, crafting d
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-- 👨‍💻 Languages: Python, TypeScript, Go, SQL
+- 👨‍💻 Languages: Python, TypeScript, SQL
 - 🛠️ Frameworks: Express.js, Django, Flask, FastAPI
 - ☁️ Cloud Platforms: AWS, GCP, Normal VPS/Dedicated Servers
 - 🛠️ Tools and Technologies: Docker, Nginx, Git
-- 🗃️ Databases: PostgreSQL, MongoDB, MySQL, Redis, SQLite
+- 🗃️ Databases: PostgreSQL, MongoDB, Redis, SQLite
 
 ## 📫 Contact Me
 If you'd like to get in touch, feel free to reach out to me at\
