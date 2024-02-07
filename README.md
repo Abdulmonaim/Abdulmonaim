@@ -3,9 +3,7 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadabdulmonaim/)
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Abdulmonaim?tab=repositories) 
 
-## 🚀 Experienced Software Engineer
-
-With over 3 years in software development, I navigate the complexities of the development cycle, crafting dynamic projects that stand out.
+I have passion to navigate the complexities of the development cycle, crafting dynamic projects that stand out.
 
 👨‍💻 Proficient in Advanced Python, TypeScript, Go, and SQL, I leverage frameworks like Express, Django, FastAPI, and Flask. My database expertise extends to PostgreSQL, MySQL, MongoDB, and Redis. Agile methodologies (Scrum and Kanban) and the structured Waterfall approach guide my project management.
 
