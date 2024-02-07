@@ -5,7 +5,7 @@
 
 I have passion to navigate the complexities of the development cycle, crafting dynamic projects that stand out.
 
-👨‍💻 Proficient in Advanced Python, TypeScript, Go, and SQL, I leverage frameworks like Express, Django, FastAPI, and Flask. My database expertise extends to PostgreSQL, MySQL, MongoDB, and Redis. Agile methodologies (Scrum and Kanban) and the structured Waterfall approach guide my project management.
+👨‍💻 Proficient in Python, TypeScript, and SQL, I leverage frameworks like Express, Django, FastAPI, and Flask. My database expertise extends to PostgreSQL, MongoDB, and Redis. Agile methodologies (Scrum and Kanban) and the structured Waterfall approach guide my project management.
 
 ---
 
@@ -27,10 +27,8 @@ I have passion to navigate the complexities of the development cycle, crafting d
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
